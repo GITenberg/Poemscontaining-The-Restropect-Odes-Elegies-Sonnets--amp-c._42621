@@ -1,0 +1,33 @@
+_repo: Poemscontaining-The-Restropect-Odes-Elegies-Sonnets--amp-c._42621
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42621-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Southey, Robert
+    birthdate: 1774
+    deathdate: 1843
+    gutenberg_agent_id: '488'
+    url: http://www.gutenberg.org/2009/agents/488
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Southey
+  - agent_name: Lovell, Robert
+    alias: Lovell, Robertus
+    deathdate: 1796
+    gutenberg_agent_id: '41783'
+    url: http://www.gutenberg.org/2009/agents/41783
+description: ''
+gutenberg_issued: '2013-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 18th century'
+- !lcsh 'Sonnets, English'
+- !lcc 'PR'
+title: 'Poems: Containing The Restropect, Odes, Elegies, Sonnets, &c.'
+url: http://www.gutenberg.org/ebooks/42621
